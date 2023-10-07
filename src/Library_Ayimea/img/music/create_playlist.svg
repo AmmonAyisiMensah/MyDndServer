@@ -1,0 +1,16 @@
+<svg width="36" height="36" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+ <title>Create Playlist</title>
+ <desc>Created with Sketch.</desc>
+
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g fill="#FF39AA" fill-rule="nonzero" id="Icons-Pattern-One">
+    <g id="Create-Playlist">
+     <path fill="#b78620" id="svg_1" d="m18,32c7.73199,0 14,-6.26801 14,-14c0,-7.73199 -6.26801,-14 -14,-14c-7.73199,0 -14,6.26801 -14,14c0,7.73199 6.26801,14 14,14zm2,-16l5,0c1.10457,0 2,0.89543 2,2c0,1.10457 -0.89543,2 -2,2l-5,0l0,5c0,1.10457 -0.89543,2 -2,2c-1.10457,0 -2,-0.89543 -2,-2l0,-5l-5,0c-1.10457,0 -2,-0.89543 -2,-2c0,-1.10457 0.89543,-2 2,-2l5,0l0,-5c0,-1.10457 0.89543,-2 2,-2c1.10457,0 2,0.89543 2,2l0,5zm-2,20c-9.94113,0 -18,-8.05887 -18,-18c0,-9.94113 8.05887,-18 18,-18c9.94113,0 18,8.05887 18,18c0,9.94113 -8.05887,18 -18,18z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
