@@ -9,3 +9,20 @@ With following GET request we can aquire the character details, $char_id is to b
 ```
 https://character-service.dndbeyond.com/character/v5/character/$char_id?includeCustomItems=true
 ```
+
+
+
+## TODO
+- setup emscripted for web assembly
+- Create data structure for character data
+- Setup database structure and migration
+- Character menu
+- Interactive game map
+- Action Menu
+- Promt request
+- Dice throw
+- Inventory menu
+- ??
+- Code da shit
+- ?
+- profit
