@@ -14,15 +14,36 @@ https://character-service.dndbeyond.com/character/v5/character/$char_id?includeC
 
 >## TODO
 >- setup emscripted for web assembly
->- Create data structure for character data
->- Setup database structure and migration
->- Character menu
->- Interactive game map
->- Action Menu
->- Promt request
->- Dice throw
->- Inventory menu
->- ??
->- Code da shit
->- ?
+>- Create data structures
+>    - PlayerData
+>    - MapData
+>    - GameData
+>    - Dungeon Master data
+>- Setup database
+>    - structure
+>    - procedures
+>    - migration
+>- Create Conrollers
+>    - DatabaseController
+>    - PlayerController
+>    - MapController
+>    - DiceController
+>    - DungeonMasterController
+>- Create Services
+>    - GameSyncService
+>    - DungeonMasterListner
+>    - StateService
+>- View's
+>    - CharacterView
+>    - MapView
+>    - DiceView
+>    - ActionView
+>    - DialogeView
+>- Create Widgets
+>    - PlayerWidget
+>    - MapWidget
+>    - DiceWidget
+>    - ActionWidget
+>- Git Guud?!
+>- ..
 >- profit
