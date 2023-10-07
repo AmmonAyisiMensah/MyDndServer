@@ -26,11 +26,11 @@ RESOURCES += $$PWD/Ayimea.qrc
 # Ayimea include and dependency paths
 INCLUDEPATH += \
     $$PWD/ \
-    $$PWD/../build/x86/release \
-    $$PWD/../build/x86/debug
+    $$PWD/../../build/x86/release \
+    $$PWD/../../build/x86/debug
 DEPENDPATH += \
-    $$PWD/../build/x86/release \
-    $$PWD/../build/x86/debug
+    $$PWD/../../build/x86/release \
+    $$PWD/../../build/x86/debug
 
 # Ayimea header includes
 HEADERS += \
@@ -45,9 +45,9 @@ HEADERS += \
     $$PWD/sqlserver.h \
 
 # Link ayimea library
-win32:CONFIG(release, debug|release): LIBS += -L$$PWD/../Library_Ayimea/release/ -lLibrary_Ayimea
-else:win32:CONFIG(debug, debug|release): LIBS += -L$$PWD/../Library_Ayimea/debug/ -lLibrary_Ayimea
-else:unix: LIBS += -L$$PWD/../Library_Ayimea/ -lLibrary_Ayimea
+win32:CONFIG(release, debug|release): LIBS += -L$$PWD/../../build/x86/release/ -lLibrary_Ayimea
+else:win32:CONFIG(debug, debug|release): LIBS += -L$$PWD/../../build/x86/debug/ -lLibrary_Ayimea
+else:unix: LIBS += -L$$PWD/../../build/unix/ -lLibrary_Ayimea
 
 
 
