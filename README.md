@@ -12,6 +12,12 @@ https://character-service.dndbeyond.com/character/v5/character/$char_id?includeC
 - ***$char_id*** is to be replaced with the actual character id from dndbeyond.com
 
 
+
+
+
+
+
+
 >## TODO
 >- setup emscripted for web assembly
 >- Create data structures
