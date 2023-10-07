@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T16:31:10.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="J6-y95-Dm5J7gWZ5WQjQ" version="22.0.4" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-07T16:49:19.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="K1p-qu5iR531uvydGJfe" version="22.0.4" type="device" pages="2">
   <diagram name="Page-1" id="01jVFppDP2cRflLi_naL">
-    <mxGraphModel dx="1432" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nmRHCd37QQC6jzqBDx9C-1" value="myDND Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+        <mxCell id="nmRHCd37QQC6jzqBDx9C-1" value="myDND Server" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="76.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nmRHCd37QQC6jzqBDx9C-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="82" height="86" as="geometry" />
+        <mxCell id="nmRHCd37QQC6jzqBDx9C-2" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tablet_2;" parent="1" vertex="1">
+          <mxGeometry x="384" y="490" width="82" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnO48cGmct3q2azQq1ji-1" value="https://www.dndbeyond.com/" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnO48cGmct3q2azQq1ji-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Time_Series_Data_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZnO48cGmct3q2azQq1ji-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/preview/Static_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="320" y="104" width="70" height="56.00000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
