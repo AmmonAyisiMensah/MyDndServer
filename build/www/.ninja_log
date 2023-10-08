@@ -1,0 +1,10 @@
+# ninja log v5
+0	369	1696766594992586511	MyDndServer_autogen/timestamp	492dfff1538f9f0a
+0	369	1696766594992586511	MyDndServer_autogen/mocs_compilation.cpp	492dfff1538f9f0a
+0	369	1696766594992586511	/home/ammon/workspace/MyDndServer/build/www/MyDndServer_autogen/timestamp	492dfff1538f9f0a
+0	369	1696766594992586511	/home/ammon/workspace/MyDndServer/build/www/MyDndServer_autogen/mocs_compilation.cpp	492dfff1538f9f0a
+370	3558	1696766598144556846	CMakeFiles/MyDndServer.dir/MyDndServer_autogen/mocs_compilation.cpp.o	343335a698ad14f2
+369	3733	1696766598324555152	CMakeFiles/MyDndServer.dir/main.cpp.o	ede029929d345a6f
+371	4002	1696766598596552593	CMakeFiles/MyDndServer.dir/mydndserver.cpp.o	c6c16b135cf92975
+370	4772	1696766599364545364	CMakeFiles/MyDndServer.dir/register.cpp.o	8b9731ce5e1acf04
+4772	94931	1696766689535696708	MyDndServer.js	ca331bdd70e1fcdb

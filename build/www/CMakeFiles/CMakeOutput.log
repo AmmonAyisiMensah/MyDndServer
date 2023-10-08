@@ -1,0 +1,62 @@
+The target system is: Emscripten - 1 - x86
+The host system is: Linux - 6.0.12-76060006-generic - x86_64
+Performing C++ SOURCE FILE Test HAVE_STDATOMIC succeeded with the following output:
+Change Dir: /home/ammon/workspace/MyDndServer/build/www/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/ammon/Qt/Tools/Ninja/ninja cmTC_14dd8 && [1/2] Building CXX object CMakeFiles/cmTC_14dd8.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_14dd8.js
+
+
+Source file was:
+#include <atomic>
+#include <cstdint>
+
+int main(int, char **)
+{
+    volatile std::atomic<char>    size_1;
+    volatile std::atomic<short>   size_2;
+    volatile std::atomic<int>     size_4;
+    volatile std::atomic<int64_t> size_8;
+
+    ++size_1;
+    ++size_2;
+    ++size_4;
+    ++size_8;
+
+    (void)size_1.load(std::memory_order_relaxed);
+    (void)size_2.load(std::memory_order_relaxed);
+    (void)size_4.load(std::memory_order_relaxed);
+    (void)size_8.load(std::memory_order_relaxed);
+
+    return 0;
+}
+Performing C++ SOURCE FILE Test HAVE_GETTIME succeeded with the following output:
+Change Dir: /home/ammon/workspace/MyDndServer/build/www/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/ammon/Qt/Tools/Ninja/ninja cmTC_4ffc6 && [1/2] Building CXX object CMakeFiles/cmTC_4ffc6.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_4ffc6.js
+
+
+Source file was:
+
+#include <unistd.h>
+#include <time.h>
+
+int main(int, char **) {
+    timespec ts; clock_gettime(CLOCK_REALTIME, &ts);
+}
+Performing C++ SOURCE FILE Test HAVE_EGL succeeded with the following output:
+Change Dir: /home/ammon/workspace/MyDndServer/build/www/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/ammon/Qt/Tools/Ninja/ninja cmTC_84f44 && [1/2] Building CXX object CMakeFiles/cmTC_84f44.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_84f44.js
+
+
+Source file was:
+
+#include <EGL/egl.h>
+
+int main(int, char **) {
+    EGLint x = 0; EGLDisplay dpy = 0; EGLContext ctx = 0;
+    eglDestroyContext(dpy, ctx);
+}

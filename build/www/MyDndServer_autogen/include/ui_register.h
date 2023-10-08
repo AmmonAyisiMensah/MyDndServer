@@ -1,0 +1,143 @@
+/********************************************************************************
+** Form generated from reading UI file 'register.ui'
+**
+** Created by: Qt User Interface Compiler version 6.4.2
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_REGISTER_H
+#define UI_REGISTER_H
+
+#include <QtCore/QVariant>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QDialog>
+#include <QtWidgets/QHBoxLayout>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QPushButton>
+#include <QtWidgets/QVBoxLayout>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_Register
+{
+public:
+    QVBoxLayout *verticalLayout_3;
+    QLabel *label;
+    QHBoxLayout *horizontalLayout;
+    QVBoxLayout *verticalLayout;
+    QLabel *label_2;
+    QLabel *label_3;
+    QLabel *label_4;
+    QVBoxLayout *verticalLayout_2;
+    QLineEdit *username;
+    QLineEdit *password;
+    QLineEdit *password_check;
+    QHBoxLayout *horizontalLayout_4;
+    QPushButton *btn_register;
+    QPushButton *btn_close;
+
+    void setupUi(QDialog *Register)
+    {
+        if (Register->objectName().isEmpty())
+            Register->setObjectName("Register");
+        Register->resize(299, 300);
+        verticalLayout_3 = new QVBoxLayout(Register);
+        verticalLayout_3->setObjectName("verticalLayout_3");
+        label = new QLabel(Register);
+        label->setObjectName("label");
+        label->setLayoutDirection(Qt::LeftToRight);
+        label->setInputMethodHints(Qt::ImhUrlCharactersOnly);
+        label->setAlignment(Qt::AlignCenter);
+
+        verticalLayout_3->addWidget(label);
+
+        horizontalLayout = new QHBoxLayout();
+        horizontalLayout->setObjectName("horizontalLayout");
+        verticalLayout = new QVBoxLayout();
+        verticalLayout->setObjectName("verticalLayout");
+        label_2 = new QLabel(Register);
+        label_2->setObjectName("label_2");
+
+        verticalLayout->addWidget(label_2);
+
+        label_3 = new QLabel(Register);
+        label_3->setObjectName("label_3");
+
+        verticalLayout->addWidget(label_3);
+
+        label_4 = new QLabel(Register);
+        label_4->setObjectName("label_4");
+
+        verticalLayout->addWidget(label_4);
+
+
+        horizontalLayout->addLayout(verticalLayout);
+
+        verticalLayout_2 = new QVBoxLayout();
+        verticalLayout_2->setObjectName("verticalLayout_2");
+        username = new QLineEdit(Register);
+        username->setObjectName("username");
+
+        verticalLayout_2->addWidget(username);
+
+        password = new QLineEdit(Register);
+        password->setObjectName("password");
+
+        verticalLayout_2->addWidget(password);
+
+        password_check = new QLineEdit(Register);
+        password_check->setObjectName("password_check");
+
+        verticalLayout_2->addWidget(password_check);
+
+
+        horizontalLayout->addLayout(verticalLayout_2);
+
+        horizontalLayout->setStretch(1, 1);
+
+        verticalLayout_3->addLayout(horizontalLayout);
+
+        horizontalLayout_4 = new QHBoxLayout();
+        horizontalLayout_4->setObjectName("horizontalLayout_4");
+        btn_register = new QPushButton(Register);
+        btn_register->setObjectName("btn_register");
+
+        horizontalLayout_4->addWidget(btn_register);
+
+        btn_close = new QPushButton(Register);
+        btn_close->setObjectName("btn_close");
+
+        horizontalLayout_4->addWidget(btn_close);
+
+
+        verticalLayout_3->addLayout(horizontalLayout_4);
+
+        verticalLayout_3->setStretch(1, 1);
+
+        retranslateUi(Register);
+
+        QMetaObject::connectSlotsByName(Register);
+    } // setupUi
+
+    void retranslateUi(QDialog *Register)
+    {
+        Register->setWindowTitle(QCoreApplication::translate("Register", "Dialog", nullptr));
+        label->setText(QCoreApplication::translate("Register", "Create MyDndServer Account", nullptr));
+        label_2->setText(QCoreApplication::translate("Register", "Username", nullptr));
+        label_3->setText(QCoreApplication::translate("Register", "Password", nullptr));
+        label_4->setText(QCoreApplication::translate("Register", "Password(check)", nullptr));
+        btn_register->setText(QCoreApplication::translate("Register", "Register", nullptr));
+        btn_close->setText(QCoreApplication::translate("Register", "Close", nullptr));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class Register: public Ui_Register {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_REGISTER_H
