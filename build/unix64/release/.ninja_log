@@ -30,3 +30,11 @@
 21	10808	1696798553248718895	CMakeFiles/MyDndServer.dir/register.cpp.o	fadd8f339417cdb2
 20	11094	1696798553520716583	CMakeFiles/MyDndServer.dir/mydndserver.cpp.o	380fa3a0f6c35252
 11094	11726	1696798554160711142	MyDndServer	2104b325cefdfc33
+3	24	1696801948443762373	MyDndServer_autogen/timestamp	9abc3c00420f7a9a
+3	24	1696801948443762373	MyDndServer_autogen/mocs_compilation.cpp	9abc3c00420f7a9a
+3	24	1696801948443762373	/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/MyDndServer_autogen/timestamp	9abc3c00420f7a9a
+3	24	1696801948443762373	/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/MyDndServer_autogen/mocs_compilation.cpp	9abc3c00420f7a9a
+26	3087	1696801951507736501	CMakeFiles/MyDndServer.dir/main.cpp.o	3f96d3bba4a9d4e4
+26	3625	1696801952043731975	CMakeFiles/MyDndServer.dir/register.cpp.o	fadd8f339417cdb2
+26	3838	1696801952259730151	CMakeFiles/MyDndServer.dir/mydndserver.cpp.o	380fa3a0f6c35252
+3838	4257	1696801952675726639	MyDndServer	2104b325cefdfc33

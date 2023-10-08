@@ -17,6 +17,7 @@
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpacerItem>
 #include <QtWidgets/QVBoxLayout>
 
 QT_BEGIN_NAMESPACE
@@ -24,8 +25,11 @@ QT_BEGIN_NAMESPACE
 class Ui_Register
 {
 public:
+    QHBoxLayout *horizontalLayout_3;
+    QSpacerItem *horizontalSpacer;
     QVBoxLayout *verticalLayout_3;
     QLabel *label;
+    QSpacerItem *verticalSpacer_2;
     QHBoxLayout *horizontalLayout;
     QVBoxLayout *verticalLayout;
     QLabel *label_2;
@@ -35,19 +39,27 @@ public:
     QLineEdit *username;
     QLineEdit *password;
     QLineEdit *password_check;
-    QHBoxLayout *horizontalLayout_4;
+    QSpacerItem *verticalSpacer;
+    QHBoxLayout *horizontalLayout_2;
     QPushButton *btn_register;
     QPushButton *btn_close;
+    QSpacerItem *horizontalSpacer_2;
 
     void setupUi(QDialog *Register)
     {
         if (Register->objectName().isEmpty())
             Register->setObjectName("Register");
-        Register->resize(299, 300);
+        Register->resize(612, 389);
         QIcon icon;
         icon.addFile(QString::fromUtf8(":/img/Ayimea.ico"), QSize(), QIcon::Normal, QIcon::Off);
         Register->setWindowIcon(icon);
-        verticalLayout_3 = new QVBoxLayout(Register);
+        horizontalLayout_3 = new QHBoxLayout(Register);
+        horizontalLayout_3->setObjectName("horizontalLayout_3");
+        horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_3->addItem(horizontalSpacer);
+
+        verticalLayout_3 = new QVBoxLayout();
         verticalLayout_3->setObjectName("verticalLayout_3");
         label = new QLabel(Register);
         label->setObjectName("label");
@@ -56,6 +68,10 @@ public:
         label->setAlignment(Qt::AlignCenter);
 
         verticalLayout_3->addWidget(label);
+
+        verticalSpacer_2 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer_2);
 
         horizontalLayout = new QHBoxLayout();
         horizontalLayout->setObjectName("horizontalLayout");
@@ -103,22 +119,34 @@ public:
 
         verticalLayout_3->addLayout(horizontalLayout);
 
-        horizontalLayout_4 = new QHBoxLayout();
-        horizontalLayout_4->setObjectName("horizontalLayout_4");
+        verticalSpacer = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
+
+        verticalLayout_3->addItem(verticalSpacer);
+
+        horizontalLayout_2 = new QHBoxLayout();
+        horizontalLayout_2->setObjectName("horizontalLayout_2");
         btn_register = new QPushButton(Register);
         btn_register->setObjectName("btn_register");
 
-        horizontalLayout_4->addWidget(btn_register);
+        horizontalLayout_2->addWidget(btn_register);
 
         btn_close = new QPushButton(Register);
         btn_close->setObjectName("btn_close");
 
-        horizontalLayout_4->addWidget(btn_close);
+        horizontalLayout_2->addWidget(btn_close);
 
 
-        verticalLayout_3->addLayout(horizontalLayout_4);
+        verticalLayout_3->addLayout(horizontalLayout_2);
 
-        verticalLayout_3->setStretch(1, 1);
+        verticalLayout_3->setStretch(2, 1);
+
+        horizontalLayout_3->addLayout(verticalLayout_3);
+
+        horizontalSpacer_2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_3->addItem(horizontalSpacer_2);
+
+        horizontalLayout_3->setStretch(1, 1);
 
         retranslateUi(Register);
 
