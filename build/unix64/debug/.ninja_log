@@ -1,0 +1,17 @@
+# ninja log v5
+2	316	1696798058224876803	MyDndServer_autogen/timestamp	7bfb06457cb58715
+2	316	1696798058224876803	MyDndServer_autogen/mocs_compilation.cpp	7bfb06457cb58715
+2	316	1696798058224876803	/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen/timestamp	7bfb06457cb58715
+2	316	1696798058224876803	/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen/mocs_compilation.cpp	7bfb06457cb58715
+316	348	1696798058260876503	MyDndServer_autogen/EWIEGA46WW/qrc_assets.cpp	d6ab9bb9261d4a72
+316	348	1696798058260876503	/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen/EWIEGA46WW/qrc_assets.cpp	d6ab9bb9261d4a72
+316	642	1696798058548874091	MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp	4fc6b20b3883c082
+316	642	1696798058548874091	/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp	4fc6b20b3883c082
+644	2416	1696798060316859293	CMakeFiles/MyDndServer.dir/MyDndServer_autogen/EWIEGA46WW/qrc_assets.cpp.o	a65f8beb27bf6565
+642	7784	1696798065636814761	CMakeFiles/MyDndServer.dir/MyDndServer_autogen/mocs_compilation.cpp.o	3e235e269a3d4b19
+643	7876	1696798065792813455	CMakeFiles/MyDndServer.dir/register.cpp.o	4757d1260a741e4b
+644	8184	1696798066052811279	CMakeFiles/MyDndServer.dir/LibraryAyimea/widgetapp.cpp.o	6caaf8a34ac99570
+643	8335	1696798066252809605	CMakeFiles/MyDndServer.dir/main.cpp.o	9fa299997c6a620d
+643	8389	1696798066304809170	CMakeFiles/MyDndServer.dir/mydndserver.cpp.o	66377499c07c677b
+2416	12921	1696798070832771267	CMakeFiles/MyDndServer.dir/MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp.o	c739f7eee08d271c
+12921	13708	1696798071616764705	MyDndServer	6d93cf83ff0d32a7

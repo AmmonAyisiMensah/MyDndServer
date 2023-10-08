@@ -1,0 +1,9 @@
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/MyDndServer.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/edit_cache.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/rebuild_cache.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/list_install_components.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/install.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/install/local.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/install/strip.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/MyDndServer_autogen_timestamp_deps.dir
+/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/MyDndServer_autogen.dir

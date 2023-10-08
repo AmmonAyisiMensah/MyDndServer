@@ -1,9 +1,0 @@
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/MyDndServer.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/edit_cache.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/rebuild_cache.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/list_install_components.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/install.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/install/local.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/install/strip.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/MyDndServer_autogen_timestamp_deps.dir
-/home/ammon/workspace/MyDndServer/build/www/CMakeFiles/MyDndServer_autogen.dir

@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ammon/workspace/Qt/MyDndServer/src",
+	"CMAKE_SOURCE_DIR" : "/home/ammon/workspace/Qt/MyDndServer/src",
+	"INCLUDE_DIR" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/MyDndServer_autogen/include",
+	"INPUTS" : [ "/home/ammon/workspace/Qt/MyDndServer/src/assets/bg01.jpg" ],
+	"LOCK_FILE" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/MyDndServer_autogen.dir/AutoRcc_assets_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "assets" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_assets.cpp",
+	"RCC_EXECUTABLE" : "/home/ammon/Qt/6.4.2/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ammon/workspace/Qt/MyDndServer/build/unix64/debug/CMakeFiles/MyDndServer_autogen.dir/AutoRcc_assets_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ammon/workspace/Qt/MyDndServer/src/assets.qrc",
+	"VERBOSITY" : 0
+}

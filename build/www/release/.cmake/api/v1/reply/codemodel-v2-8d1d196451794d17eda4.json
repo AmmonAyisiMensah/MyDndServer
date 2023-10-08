@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-c4ed7d9fd82506dd0d41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyDndServer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyDndServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyDndServer-Release-26a5a1f63933c2f38900.json",
+					"name" : "MyDndServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyDndServer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyDndServer_autogen-Release-9cdc481a4054cdc382eb.json",
+					"name" : "MyDndServer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyDndServer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyDndServer_autogen_timestamp_deps-Release-1b1a0f766be78b726f8d.json",
+					"name" : "MyDndServer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ammon/workspace/Qt/MyDndServer/build/www/release",
+		"source" : "/home/ammon/workspace/Qt/MyDndServer/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
