@@ -1,0 +1,17 @@
+Copyright (C) 2019 Ayimea.
+Contact: https://www.ayimea.com/licensing/
+
+ Personal License Usage
+ This Application is created for Nyrstar Budel for personal use only. 
+ Nyrstar budel has no ownership rights in accordance with the terms contained in 
+ the employee contract of Ammon Ayisi-Mensah. The application can be used for an
+ unlimited amount of time. This is the released version of the application, 
+ no changes can be demanded. The user however may apply necessary changes. 
+
+ Commercial License Usage
+ Licensees holding valid Ayimea licenses may not use this application in
+ accordance with the commercial license agreement provided with the
+ Software or, alternatively, in accordance with the terms contained in
+ a written agreement between you and employe Ammon Ayisi-Mensah. For licensing terms
+ and conditions see https://www.Ayimea.com/terms-conditions. For further
+ information use the contact form at https://www.ayimea.com/contact.

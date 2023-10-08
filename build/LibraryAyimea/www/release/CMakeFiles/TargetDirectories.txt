@@ -1,0 +1,5 @@
+/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/CMakeFiles/LibraryAyimea.dir
+/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/CMakeFiles/edit_cache.dir
+/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/CMakeFiles/rebuild_cache.dir
+/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/CMakeFiles/LibraryAyimea_autogen_timestamp_deps.dir
+/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/CMakeFiles/LibraryAyimea_autogen.dir

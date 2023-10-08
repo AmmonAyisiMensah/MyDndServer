@@ -1,3 +1,5 @@
+include(LibraryAyimea/LibraryAyimea.cmake)
+
 cmake_minimum_required(VERSION 3.5)
 
 project(MyDndServer VERSION 0.1 LANGUAGES CXX)
@@ -20,6 +22,7 @@ set(PROJECT_SOURCES
         register.h
         register.cpp
         register.ui
+        assets.qrc
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
@@ -45,7 +48,8 @@ else()
     endif()
 endif()
 
-target_link_libraries(MyDndServer PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_link_libraries(MyDndServer PRIVATE Qt${QT_VERSION_MAJOR}::Widgets
+)
 
 set_target_properties(MyDndServer PROPERTIES
     MACOSX_BUNDLE_GUI_IDENTIFIER my.example.com

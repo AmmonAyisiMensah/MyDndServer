@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+	<Name>My DnD Server</Name>
+	<Version>1.0.0</Version>
+	<Title>My DnD Serve</Title>
+	<Publisher>Ammon Ayisi Mensah</Publisher>
+	<StartMenuDir>Ayimea</StartMenuDir>
+	<InstallerWindowIcon>AyimeaNoText</InstallerWindowIcon>
+	<InstallerApplicationIcon>AyimeaAA</InstallerApplicationIcon>
+	<Logo>AyimeaAA.png</Logo>
+	<Banner>AyimeaNoText.ico</Banner>
+	<WizardStyle>Modern</WizardStyle>
+	<WizardDefaultHeight>800</WizardDefaultHeight>
+	<TargetDir>@ApplicationsDirX86@/Ayimea/MyDndServer</TargetDir>
+</Installer>

@@ -1,0 +1,20 @@
+# ninja log v5
+4012	8721	1696774120352514428	CMakeFiles/LibraryAyimea.dir/src/Database/crud_api.cpp.o	92e7c642147ff44
+0	4	0	CMakeFiles/clean.additional	8836f87db10cddd9
+3956	9437	1696774121076508252	CMakeFiles/LibraryAyimea.dir/src/Database/mysql.cpp.o	e046b3165ae780b0
+382	3956	1696774115564555271	CMakeFiles/LibraryAyimea.dir/src/App/consoleapp.cpp.o	51a7a210018fdaf1
+384	4876	1696774116500547287	CMakeFiles/LibraryAyimea.dir/src/App/widgetapp.cpp.o	c5ef6700b882b06f
+5207	5449	1696774235339533518	libLibraryAyimea.a	73a8fcfeadb8fb20
+48	4091	1696774234067544368	CMakeFiles/LibraryAyimea.dir/src/App/serviceapp.cpp.o	518e1c0006b89e30
+5	44	1696774230067578489	/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/LibraryAyimea_autogen/mocs_compilation.cpp	5ea9e57f3cde609e
+2	910	1696775156496131354	build.ninja	3983e1fe644ee273
+5	44	1696774230067578489	/home/ammon/workspace/Qt/LibraryAyimea/bin/www/release/LibraryAyimea_autogen/timestamp	5ea9e57f3cde609e
+4876	8375	1696774120000517431	CMakeFiles/LibraryAyimea.dir/src/Web/getrequest.cpp.o	2c6a6f82bad01399
+4400	9405	1696774121044508526	CMakeFiles/LibraryAyimea.dir/src/Database/crud_interface.cpp.o	d7f5f25fc3d94d47
+50	5207	1696774235191534781	CMakeFiles/LibraryAyimea.dir/src/Database/sql_connection.cpp.o	4f50c70987aede54
+62	4931	1696774234903537237	CMakeFiles/LibraryAyimea.dir/src/Database/sqlserver.cpp.o	13d34851a64d2f39
+5	44	1696774230067578489	LibraryAyimea_autogen/timestamp	5ea9e57f3cde609e
+5	44	1696774230067578489	LibraryAyimea_autogen/mocs_compilation.cpp	5ea9e57f3cde609e
+4	10	0	clean	f2228a9a10e6826e
+382	7380	1696774118988526064	CMakeFiles/LibraryAyimea.dir/LibraryAyimea_autogen/mocs_compilation.cpp.o	46865f5427e76a53
+382	4400	1696774116020551381	CMakeFiles/LibraryAyimea.dir/src/libraryayimea.cpp.o	e288751257b760ad

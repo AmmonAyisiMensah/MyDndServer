@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img/maps"/>
+    <qresource prefix="/img/ui">
+        <file>assets/bg01.jpg</file>
+    </qresource>
+    <qresource prefix="/img/charachters"/>
+    <qresource prefix="/img/game"/>
+</RCC>
