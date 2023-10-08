@@ -26,7 +26,7 @@ https://character-service.dndbeyond.com/character/v5/character/$char_id?includeC
 
 
 # TODO
->- setup emscripted for web assembly
+>- ~~setup emscripted for web assembly~~
 >- Create data structures
 >    - PlayerData
 >    - MapData
