@@ -25,7 +25,7 @@ https://character-service.dndbeyond.com/character/v5/character/$char_id?includeC
 
 ```
 
-- [] Temp test link
+> [] Temp test link
 
 ```
 https://character-service.dndbeyond.com/character/v5/character/$char_id?includeCustomItems=true
