@@ -30,7 +30,7 @@ https://character-service.dndbeyond.com/character/v5/character/$char_id?includeC
 >Temp test link
 
 ```
-https://character-service.dndbeyond.com/character/v5/character/103580287?includeCustomItems=true
+https://character-service.dndbeyond.com/character/v5/character/103508287?includeCustomItems=true
 ```
 
 
