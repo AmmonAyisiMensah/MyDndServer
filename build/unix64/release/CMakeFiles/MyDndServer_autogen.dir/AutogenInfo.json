@@ -492,6 +492,12 @@
 			null
 		],
 		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/login.h",
+			"MU",
+			"EWIEGA46WW/moc_login.cpp",
+			null
+		],
+		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.h",
 			"MU",
 			"EWIEGA46WW/moc_mydndserver.cpp",
@@ -577,6 +583,7 @@
 			"MU",
 			null
 		],
+		[ "/home/ammon/workspace/Qt/MyDndServer/src/login.cpp", "MU", null ],
 		[ "/home/ammon/workspace/Qt/MyDndServer/src/main.cpp", "MU", null ],
 		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.cpp",

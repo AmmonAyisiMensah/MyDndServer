@@ -19,9 +19,18 @@ Once game is created en started the players can join.
 ## Notes
 
 With following GET request we can aquire the character details
+
+```
+https://character-service.dndbeyond.com/character/v5/character/$char_id?includeCustomItems=true
+
+```
+
+- [] Temp test link
+
 ```
 https://character-service.dndbeyond.com/character/v5/character/$char_id?includeCustomItems=true
 ```
+
 - ***$char_id*** is to be replaced with the actual character id from dndbeyond.com
 
 

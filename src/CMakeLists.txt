@@ -19,12 +19,9 @@ include_directories(
 
 set(PROJECT_SOURCES
         main.cpp
-        mydndserver.h
-        mydndserver.cpp
-        mydndserver.ui
-        register.h
-        register.cpp
-        register.ui
+        mydndserver.h mydndserver.cpp mydndserver.ui
+        register.h register.cpp register.ui
+        login.h login.cpp login.ui
         assets.qrc
         LibraryAyimea/Library_Ayimea_global.h
         LibraryAyimea/widgetapp.h
