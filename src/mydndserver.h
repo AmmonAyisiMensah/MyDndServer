@@ -3,6 +3,8 @@
 
 #include <QWidget>
 #include "register.h"
+#include "login.h"
+#include <QGraphicsPixmapItem>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MyDndServer; }
@@ -19,5 +21,6 @@ public:
 private:
     Ui::MyDndServer *ui;
     Register *m_RegisterDialog;
+    Login *m_LoginDialog;
 };
 #endif // MYDNDSERVER_H

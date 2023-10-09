@@ -95,6 +95,7 @@
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qimage.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qkeysequence.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpaintdevice.h \
+  /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpainterpath.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpalette.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixelformat.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixmap.h \
@@ -108,13 +109,16 @@
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qtransform.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qwindowdefs.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QDialog \
+  /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QGraphicsPixmapItem \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QWidget \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qdialog.h \
+  /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qgraphicsitem.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgets-config.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
   /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qwidget.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/login.h \
   /home/ammon/workspace/Qt/MyDndServer/src/register.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \

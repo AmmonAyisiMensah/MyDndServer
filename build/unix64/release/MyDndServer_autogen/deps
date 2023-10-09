@@ -94,6 +94,7 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qimage.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qkeysequence.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpaintdevice.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpainterpath.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpalette.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixelformat.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixmap.h \
@@ -107,8 +108,10 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qtransform.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qwindowdefs.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QDialog \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QGraphicsPixmapItem \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QWidget \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qdialog.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qgraphicsitem.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qsizepolicy.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgets-config.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
@@ -442,6 +445,8 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/assets.qrc \
+	/home/ammon/workspace/Qt/MyDndServer/src/login.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/login.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/main.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.h \
@@ -731,6 +736,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/login.ui \
 	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.ui \
 	/home/ammon/workspace/Qt/MyDndServer/src/register.ui \
 	/home/ammon/Qt/Tools/CMake/bin/cmake

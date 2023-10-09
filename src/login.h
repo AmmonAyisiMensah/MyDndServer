@@ -7,13 +7,13 @@ namespace Ui {
 class login;
 }
 
-class login : public QDialog
+class Login : public QDialog
 {
     Q_OBJECT
 
 public:
-    explicit login(QWidget *parent = nullptr);
-    ~login();
+    explicit Login(QWidget *parent = nullptr);
+    ~Login();
 
 private:
     Ui::login *ui;
