@@ -13,21 +13,13 @@ find_package(Qt6 REQUIRED COMPONENTS Widgets)
 find_package(Qt6 REQUIRED COMPONENTS Sql)
 find_package(Qt6 REQUIRED COMPONENTS Network)
 
+file(GLOB_RECURSE PROJECT_SOURCES *.h *.cpp *.ui *.rc *.qrc )
+
 include_directories(
     "LibraryAyimea"
-)
-
-set(PROJECT_SOURCES
-        main.cpp
-        mydndserver.h mydndserver.cpp mydndserver.ui
-        register.h register.cpp register.ui
-        login.h login.cpp login.ui
-        assets.qrc
-        LibraryAyimea/Library_Ayimea_global.h
-        LibraryAyimea/widgetapp.h
-        LibraryAyimea/widgetapp.cpp
-        LibraryAyimea/Ayimea.rc
-        LibraryAyimea/Ayimea.qrc
+    "Core"
+    "Assets"
+    "UI"
 )
 
 qt_add_executable(MyDndServer

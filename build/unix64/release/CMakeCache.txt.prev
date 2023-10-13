@@ -257,6 +257,9 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
+//Dependencies for the target
+Core_LIB_DEPENDS:STATIC=general;Qt6::Widgets;
+
 //Value Computed by CMake
 MyDndServer_BINARY_DIR:STATIC=/home/ammon/workspace/Qt/MyDndServer/build/unix64/release
 
@@ -338,6 +341,9 @@ Qt6Widgets_DIR:PATH=/home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6Widgets
 
 //The directory containing a CMake configuration file for Qt6.
 Qt6_DIR:PATH=/home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6
+
+//Dependencies for the target
+UI_LIB_DEPENDS:STATIC=general;Qt6::Widgets;
 
 //Path to a program.
 Vulkan_GLSLANG_VALIDATOR_EXECUTABLE:FILEPATH=Vulkan_GLSLANG_VALIDATOR_EXECUTABLE-NOTFOUND

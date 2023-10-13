@@ -91,7 +91,7 @@ public:
         btn_character_sheet = new QToolButton(MyDndServer);
         btn_character_sheet->setObjectName("btn_character_sheet");
         QIcon icon;
-        icon.addFile(QString::fromUtf8(":/assets/789_Lorc_RPG_icons/Icon.3_83.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon.addFile(QString::fromUtf8(":/789_Lorc_RPG_icons/Icon.3_83.png"), QSize(), QIcon::Normal, QIcon::Off);
         btn_character_sheet->setIcon(icon);
         btn_character_sheet->setIconSize(QSize(128, 128));
 
@@ -104,7 +104,7 @@ public:
         btn_equipment = new QToolButton(MyDndServer);
         btn_equipment->setObjectName("btn_equipment");
         QIcon icon1;
-        icon1.addFile(QString::fromUtf8(":/assets/789_Lorc_RPG_icons/Icon.6_94.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon1.addFile(QString::fromUtf8(":/789_Lorc_RPG_icons/Icon.6_94.png"), QSize(), QIcon::Normal, QIcon::Off);
         btn_equipment->setIcon(icon1);
         btn_equipment->setIconSize(QSize(128, 128));
 
@@ -117,7 +117,7 @@ public:
         btn_inventory = new QToolButton(MyDndServer);
         btn_inventory->setObjectName("btn_inventory");
         QIcon icon2;
-        icon2.addFile(QString::fromUtf8(":/assets/789_Lorc_RPG_icons/Icon.6_37.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon2.addFile(QString::fromUtf8(":/789_Lorc_RPG_icons/Icon.6_37.png"), QSize(), QIcon::Normal, QIcon::Off);
         btn_inventory->setIcon(icon2);
         btn_inventory->setIconSize(QSize(128, 128));
 
@@ -130,7 +130,7 @@ public:
         btn_action = new QToolButton(MyDndServer);
         btn_action->setObjectName("btn_action");
         QIcon icon3;
-        icon3.addFile(QString::fromUtf8(":/assets/789_Lorc_RPG_icons/Icon.2_43.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon3.addFile(QString::fromUtf8(":/789_Lorc_RPG_icons/Icon.2_43.png"), QSize(), QIcon::Normal, QIcon::Off);
         btn_action->setIcon(icon3);
         btn_action->setIconSize(QSize(128, 128));
 
@@ -143,7 +143,7 @@ public:
         btn_journal = new QToolButton(MyDndServer);
         btn_journal->setObjectName("btn_journal");
         QIcon icon4;
-        icon4.addFile(QString::fromUtf8(":/assets/789_Lorc_RPG_icons/Icon.5_85.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon4.addFile(QString::fromUtf8(":/789_Lorc_RPG_icons/Icon.5_85.png"), QSize(), QIcon::Normal, QIcon::Off);
         btn_journal->setIcon(icon4);
         btn_journal->setIconSize(QSize(128, 128));
 

@@ -1,4 +1,12 @@
 MyDndServer_autogen/timestamp: \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QDebug \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QDir \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QElapsedTimer \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QFile \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QObject \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QSettings \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/QString \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qabstractitemmodel.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qalgorithms.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qanystringview.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qarraydata.h \
@@ -12,6 +20,7 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qbytearrayalgorithms.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qbytearraylist.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qbytearrayview.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qcalendar.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qchar.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qcompare.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qcompare_impl.h \
@@ -22,7 +31,13 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qcontainertools_impl.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qcontiguouscache.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qdatastream.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qdatetime.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qdebug.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qdir.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qelapsedtimer.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qfile.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qfiledevice.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qfileinfo.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qflags.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qforeach.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qgenericatomic.h \
@@ -30,11 +45,13 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qglobalstatic.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qhash.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qhashfunctions.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qiodevice.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qiodevicebase.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qiterable.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qiterator.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qline.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qlist.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qlocale.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qlogging.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qmap.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qmargins.h \
@@ -55,6 +72,7 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qscopedpointer.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qscopeguard.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qset.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qsettings.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qshareddata.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qshareddata_impl.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtCore/qsharedpointer.h \
@@ -96,6 +114,7 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpaintdevice.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpainterpath.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpalette.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpen.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixelformat.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpixmap.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qpolygon.h \
@@ -107,11 +126,29 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qtguiglobal.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qtransform.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtGui/qwindowdefs.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlDatabase \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlError \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlQuery \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlRecord \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlResult \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/QSqlTableModel \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqldatabase.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqlerror.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqlquery.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqlquerymodel.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqlrecord.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqlresult.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qsqltablemodel.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qtsql-config.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qtsqlexports.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtSql/qtsqlglobal.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QDialog \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QGraphicsPixmapItem \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QGraphicsScene \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/QWidget \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qdialog.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qgraphicsitem.h \
+	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qgraphicsscene.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qsizepolicy.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgets-config.h \
 	/home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
@@ -439,19 +476,37 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
 	/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/CMakeFiles/3.24.2/CMakeSystem.cmake \
 	/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/MyDndServer_autogen/moc_predefs.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/Assets/assets.qrc \
 	/home/ammon/workspace/Qt/MyDndServer/src/CMakeLists.txt \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/entity.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/entity.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/task.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/task.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/view.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/Core/view.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Ayimea.qrc \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Library_Ayimea_global.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.h \
-	/home/ammon/workspace/Qt/MyDndServer/src/assets.qrc \
-	/home/ammon/workspace/Qt/MyDndServer/src/login.cpp \
-	/home/ammon/workspace/Qt/MyDndServer/src/login.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/register.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/register.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/main.cpp \
-	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.cpp \
-	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.h \
-	/home/ammon/workspace/Qt/MyDndServer/src/register.cpp \
-	/home/ammon/workspace/Qt/MyDndServer/src/register.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
@@ -477,6 +532,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/bits/c++0x_warning.h \
 	/usr/include/c++/11/bits/char_traits.h \
 	/usr/include/c++/11/bits/charconv.h \
+	/usr/include/c++/11/bits/codecvt.h \
 	/usr/include/c++/11/bits/concept_check.h \
 	/usr/include/c++/11/bits/cpp_type_traits.h \
 	/usr/include/c++/11/bits/cxxabi_forced.h \
@@ -486,6 +542,10 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/bits/exception.h \
 	/usr/include/c++/11/bits/exception_defines.h \
 	/usr/include/c++/11/bits/exception_ptr.h \
+	/usr/include/c++/11/bits/fs_dir.h \
+	/usr/include/c++/11/bits/fs_fwd.h \
+	/usr/include/c++/11/bits/fs_ops.h \
+	/usr/include/c++/11/bits/fs_path.h \
 	/usr/include/c++/11/bits/functexcept.h \
 	/usr/include/c++/11/bits/functional_hash.h \
 	/usr/include/c++/11/bits/hash_bytes.h \
@@ -495,8 +555,11 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/bits/list.tcc \
 	/usr/include/c++/11/bits/locale_classes.h \
 	/usr/include/c++/11/bits/locale_classes.tcc \
+	/usr/include/c++/11/bits/locale_conv.h \
 	/usr/include/c++/11/bits/locale_facets.h \
 	/usr/include/c++/11/bits/locale_facets.tcc \
+	/usr/include/c++/11/bits/locale_facets_nonio.h \
+	/usr/include/c++/11/bits/locale_facets_nonio.tcc \
 	/usr/include/c++/11/bits/localefwd.h \
 	/usr/include/c++/11/bits/max_size_type.h \
 	/usr/include/c++/11/bits/memoryfwd.h \
@@ -509,6 +572,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/bits/postypes.h \
 	/usr/include/c++/11/bits/predefined_ops.h \
 	/usr/include/c++/11/bits/ptr_traits.h \
+	/usr/include/c++/11/bits/quoted_string.h \
 	/usr/include/c++/11/bits/range_access.h \
 	/usr/include/c++/11/bits/ranges_algo.h \
 	/usr/include/c++/11/bits/ranges_algobase.h \
@@ -560,12 +624,14 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/climits \
 	/usr/include/c++/11/clocale \
 	/usr/include/c++/11/cmath \
+	/usr/include/c++/11/codecvt \
 	/usr/include/c++/11/compare \
 	/usr/include/c++/11/concepts \
 	/usr/include/c++/11/cstddef \
 	/usr/include/c++/11/cstdint \
 	/usr/include/c++/11/cstdlib \
 	/usr/include/c++/11/cstring \
+	/usr/include/c++/11/ctime \
 	/usr/include/c++/11/cwchar \
 	/usr/include/c++/11/cwctype \
 	/usr/include/c++/11/debug/assertions.h \
@@ -579,13 +645,16 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/ext/numeric_traits.h \
 	/usr/include/c++/11/ext/string_conversions.h \
 	/usr/include/c++/11/ext/type_traits.h \
+	/usr/include/c++/11/filesystem \
 	/usr/include/c++/11/functional \
 	/usr/include/c++/11/initializer_list \
+	/usr/include/c++/11/iomanip \
 	/usr/include/c++/11/ios \
 	/usr/include/c++/11/iosfwd \
 	/usr/include/c++/11/iterator \
 	/usr/include/c++/11/limits \
 	/usr/include/c++/11/list \
+	/usr/include/c++/11/locale \
 	/usr/include/c++/11/map \
 	/usr/include/c++/11/memory \
 	/usr/include/c++/11/new \
@@ -601,6 +670,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/c++/11/streambuf \
 	/usr/include/c++/11/string \
 	/usr/include/c++/11/string_view \
+	/usr/include/c++/11/system_error \
 	/usr/include/c++/11/tr1/bessel_function.tcc \
 	/usr/include/c++/11/tr1/beta_function.tcc \
 	/usr/include/c++/11/tr1/ell_integral.tcc \
@@ -625,6 +695,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/errno.h \
 	/usr/include/features-time64.h \
 	/usr/include/features.h \
+	/usr/include/libintl.h \
 	/usr/include/limits.h \
 	/usr/include/linux/errno.h \
 	/usr/include/linux/limits.h \
@@ -726,7 +797,9 @@ MyDndServer_autogen/timestamp: \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h \
+	/usr/include/x86_64-linux-gnu/c++/11/bits/messages_members.h \
 	/usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
+	/usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h \
 	/usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
 	/usr/include/x86_64-linux-gnu/gnu/stubs.h \
 	/usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -736,7 +809,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
-	/home/ammon/workspace/Qt/MyDndServer/src/login.ui \
-	/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.ui \
-	/home/ammon/workspace/Qt/MyDndServer/src/register.ui \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.ui \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.ui \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/register.ui \
 	/home/ammon/Qt/Tools/CMake/bin/cmake

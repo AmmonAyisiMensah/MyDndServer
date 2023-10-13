@@ -471,7 +471,7 @@
 		"/home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake",
 		"/home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake",
 		"/home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake",
-		"/home/ammon/workspace/Qt/MyDndServer/src/assets.qrc",
+		"/home/ammon/workspace/Qt/MyDndServer/src/Assets/assets.qrc",
 		"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Ayimea.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/ammon/workspace/Qt/MyDndServer/src",
@@ -480,9 +480,63 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/entity.h",
+			"MU",
+			"4VKJKCZPXG/moc_entity.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/task.h",
+			"MU",
+			"4VKJKCZPXG/moc_task.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.h",
+			"MU",
+			"4VKJKCZPXG/moc_taskpool.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/view.h",
+			"MU",
+			"4VKJKCZPXG/moc_view.cpp",
+			null
+		],
+		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Library_Ayimea_global.h",
 			"MU",
 			"E6YBPJN25T/moc_Library_Ayimea_global.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.h",
+			"MU",
+			"E6YBPJN25T/moc_crud_api.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.h",
+			"MU",
+			"E6YBPJN25T/moc_crud_interface.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.h",
+			"MU",
+			"E6YBPJN25T/moc_mysql.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.h",
+			"MU",
+			"E6YBPJN25T/moc_sql_connection.cpp",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.h",
+			"MU",
+			"E6YBPJN25T/moc_sqlserver.cpp",
 			null
 		],
 		[
@@ -492,21 +546,21 @@
 			null
 		],
 		[
-			"/home/ammon/workspace/Qt/MyDndServer/src/login.h",
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/login.h",
 			"MU",
-			"EWIEGA46WW/moc_login.cpp",
+			"KRKR4BN5RM/moc_login.cpp",
 			null
 		],
 		[
-			"/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.h",
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.h",
 			"MU",
-			"EWIEGA46WW/moc_mydndserver.cpp",
+			"KRKR4BN5RM/moc_mydndserver.cpp",
 			null
 		],
 		[
-			"/home/ammon/workspace/Qt/MyDndServer/src/register.h",
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/register.h",
 			"MU",
-			"EWIEGA46WW/moc_register.cpp",
+			"KRKR4BN5RM/moc_register.cpp",
 			null
 		]
 	],
@@ -532,6 +586,9 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea",
+		"/home/ammon/workspace/Qt/MyDndServer/src/Core",
+		"/home/ammon/workspace/Qt/MyDndServer/src/Assets",
+		"/home/ammon/workspace/Qt/MyDndServer/src/UI",
 		"/home/ammon/Qt/6.4.2/gcc_64/include/QtCore",
 		"/home/ammon/Qt/6.4.2/gcc_64/include",
 		"/home/ammon/Qt/6.4.2/gcc_64/mkspecs/linux-g++",
@@ -579,18 +636,59 @@
 	"SOURCES" : 
 	[
 		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/entity.cpp",
+			"MU",
+			null
+		],
+		[ "/home/ammon/workspace/Qt/MyDndServer/src/Core/task.cpp", "MU", null ],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.cpp",
+			"MU",
+			null
+		],
+		[ "/home/ammon/workspace/Qt/MyDndServer/src/Core/view.cpp", "MU", null ],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.cpp",
+			"MU",
+			null
+		],
+		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp",
 			"MU",
 			null
 		],
-		[ "/home/ammon/workspace/Qt/MyDndServer/src/login.cpp", "MU", null ],
-		[ "/home/ammon/workspace/Qt/MyDndServer/src/main.cpp", "MU", null ],
+		[ "/home/ammon/workspace/Qt/MyDndServer/src/UI/login.cpp", "MU", null ],
 		[
-			"/home/ammon/workspace/Qt/MyDndServer/src/mydndserver.cpp",
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.cpp",
 			"MU",
 			null
 		],
-		[ "/home/ammon/workspace/Qt/MyDndServer/src/register.cpp", "MU", null ]
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/register.cpp",
+			"MU",
+			null
+		],
+		[ "/home/ammon/workspace/Qt/MyDndServer/src/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
