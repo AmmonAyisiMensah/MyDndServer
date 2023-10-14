@@ -49,13 +49,13 @@ public:
     {
         if (Register->objectName().isEmpty())
             Register->setObjectName("Register");
-        Register->resize(612, 389);
+        Register->resize(540, 412);
         QIcon icon;
         icon.addFile(QString::fromUtf8(":/img/Ayimea.ico"), QSize(), QIcon::Normal, QIcon::Off);
         Register->setWindowIcon(icon);
         horizontalLayout_3 = new QHBoxLayout(Register);
         horizontalLayout_3->setObjectName("horizontalLayout_3");
-        horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+        horizontalSpacer = new QSpacerItem(120, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
         horizontalLayout_3->addItem(horizontalSpacer);
 
@@ -142,11 +142,10 @@ public:
 
         horizontalLayout_3->addLayout(verticalLayout_3);
 
-        horizontalSpacer_2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+        horizontalSpacer_2 = new QSpacerItem(119, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
         horizontalLayout_3->addItem(horizontalSpacer_2);
 
-        horizontalLayout_3->setStretch(1, 1);
 
         retranslateUi(Register);
 

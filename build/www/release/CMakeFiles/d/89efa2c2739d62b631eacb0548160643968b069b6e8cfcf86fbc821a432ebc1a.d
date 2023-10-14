@@ -57,6 +57,14 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets-relwithdebinfo.cmake \
   /home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
   /home/ammon/Qt/6.4.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QDebug \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QDir \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QElapsedTimer \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QFile \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QObject \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QSettings \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/QString \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qabstractitemmodel.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qalgorithms.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qanystringview.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qarraydata.h \
@@ -69,6 +77,7 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qbytearrayalgorithms.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qbytearraylist.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qbytearrayview.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qcalendar.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qchar.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qcompare.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qcompare_impl.h \
@@ -79,18 +88,26 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qcontainertools_impl.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qcontiguouscache.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qdatastream.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qdatetime.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qdebug.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qdir.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qelapsedtimer.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qfile.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qfiledevice.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qfileinfo.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qflags.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qforeach.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qglobal.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qglobalstatic.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qhash.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qhashfunctions.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qiodevice.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qiodevicebase.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qiterable.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qiterator.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qline.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qlist.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qlocale.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qlogging.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qmap.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qmargins.h \
@@ -111,6 +128,7 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qscopedpointer.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qscopeguard.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qset.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qsettings.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qshareddata.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qshareddata_impl.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtCore/qsharedpointer.h \
@@ -150,7 +168,9 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qimage.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qkeysequence.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpaintdevice.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpainterpath.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpalette.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpen.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpixelformat.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpixmap.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qpolygon.h \
@@ -162,9 +182,29 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qtguiglobal.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qtransform.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtGui/qwindowdefs.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlDatabase \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlError \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlQuery \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlRecord \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlResult \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/QSqlTableModel \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqldatabase.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqlerror.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqlquery.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqlquerymodel.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqlrecord.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqlresult.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qsqltablemodel.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qtsql-config.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qtsqlexports.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtSql/qtsqlglobal.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/QDialog \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/QGraphicsPixmapItem \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/QGraphicsScene \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/QWidget \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qdialog.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qgraphicsitem.h \
+  /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qgraphicsscene.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qsizepolicy.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qtwidgets-config.h \
   /home/ammon/Qt/6.4.2/wasm_32/include/QtWidgets/qtwidgetsexports.h \
@@ -1254,28 +1294,19 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/Qt/6.4.2/wasm_32/plugins/platforms/qtloader.js \
   /home/ammon/Qt/6.4.2/wasm_32/plugins/platforms/qtlogo.svg \
   /home/ammon/Qt/6.4.2/wasm_32/plugins/platforms/wasm_shell.html \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeNinjaFindMake.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakePushCheckState.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystem.cmake.in \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckCXXCompilerFlag.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/Clang-CXX.cmake \
-  /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/Clang-FindBinUtils.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/Clang.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/Compiler/GNU.cmake \
   /home/ammon/Qt/Tools/CMake/share/cmake-3.24/Modules/FeatureSummary.cmake \
@@ -1289,22 +1320,45 @@ MyDndServer_autogen/timestamp: \
   CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.24.2/CMakeSystem.cmake \
   MyDndServer_autogen/moc_predefs.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/Assets/assets.qrc \
   /home/ammon/workspace/Qt/MyDndServer/src/CMakeLists.txt \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/entity.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/entity.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/task.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/task.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/taskpool.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/view.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/Core/view.h \
   /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Ayimea.qrc \
   /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/Library_Ayimea_global.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_api.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/crud_interface.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/mysql.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sql_connection.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.h \
   /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp \
   /home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.h \
-  /home/ammon/workspace/Qt/MyDndServer/src/assets.qrc \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/login.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/login.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.h \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/register.cpp \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/register.h \
   /home/ammon/workspace/Qt/MyDndServer/src/main.cpp \
-  /home/ammon/workspace/Qt/MyDndServer/src/mydndserver.cpp \
-  /home/ammon/workspace/Qt/MyDndServer/src/mydndserver.h \
-  /home/ammon/workspace/Qt/MyDndServer/src/register.cpp \
-  /home/ammon/workspace/Qt/MyDndServer/src/register.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/ctype.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/stdarg.h \
@@ -1318,6 +1372,8 @@ MyDndServer_autogen/timestamp: \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cmake/Modules/CMakeSystemSpecificInformation.cmake \
   /home/ammon/workspace/Qt/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake \
-  /home/ammon/workspace/Qt/MyDndServer/src/mydndserver.ui \
-  /home/ammon/workspace/Qt/MyDndServer/src/register.ui \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.ui \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/login.ui \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.ui \
+  /home/ammon/workspace/Qt/MyDndServer/src/UI/register.ui \
   /home/ammon/Qt/Tools/CMake/bin/cmake

@@ -137,6 +137,14 @@ build CMakeFiles/MyDndServer.dir/LibraryAyimea/widgetapp.cpp.o: CXX_COMPILER__My
   OBJECT_DIR = CMakeFiles/MyDndServer.dir
   OBJECT_FILE_DIR = CMakeFiles/MyDndServer.dir/LibraryAyimea
 
+build CMakeFiles/MyDndServer.dir/UI/launcher.cpp.o: CXX_COMPILER__MyDndServer_Release /home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.cpp || cmake_object_order_depends_target_MyDndServer
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/MyDndServer.dir/UI/launcher.cpp.o.d
+  FLAGS = -O3 -DNDEBUG -fPIC -std=gnu++20
+  INCLUDES = -I/home/ammon/workspace/Qt/MyDndServer/build/unix64/release/MyDndServer_autogen/include -I/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea -I/home/ammon/workspace/Qt/MyDndServer/src/Core -I/home/ammon/workspace/Qt/MyDndServer/src/Assets -I/home/ammon/workspace/Qt/MyDndServer/src/UI -isystem /home/ammon/Qt/6.4.2/gcc_64/include/QtCore -isystem /home/ammon/Qt/6.4.2/gcc_64/include -isystem /home/ammon/Qt/6.4.2/gcc_64/mkspecs/linux-g++ -isystem /home/ammon/Qt/6.4.2/gcc_64/include/QtWidgets -isystem /home/ammon/Qt/6.4.2/gcc_64/include/QtGui -isystem /home/ammon/Qt/6.4.2/gcc_64/include/QtSql -isystem /home/ammon/Qt/6.4.2/gcc_64/include/QtNetwork
+  OBJECT_DIR = CMakeFiles/MyDndServer.dir
+  OBJECT_FILE_DIR = CMakeFiles/MyDndServer.dir/UI
+
 build CMakeFiles/MyDndServer.dir/UI/login.cpp.o: CXX_COMPILER__MyDndServer_Release /home/ammon/workspace/Qt/MyDndServer/src/UI/login.cpp || cmake_object_order_depends_target_MyDndServer
   DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -DQT_WIDGETS_LIB
   DEP_FILE = CMakeFiles/MyDndServer.dir/UI/login.cpp.o.d
@@ -193,7 +201,7 @@ build CMakeFiles/MyDndServer.dir/MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp.o
 #############################################
 # Link the executable MyDndServer
 
-build MyDndServer: CXX_EXECUTABLE_LINKER__MyDndServer_Release CMakeFiles/MyDndServer.dir/MyDndServer_autogen/mocs_compilation.cpp.o CMakeFiles/MyDndServer.dir/Core/entity.cpp.o CMakeFiles/MyDndServer.dir/Core/task.cpp.o CMakeFiles/MyDndServer.dir/Core/taskpool.cpp.o CMakeFiles/MyDndServer.dir/Core/view.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/crud_api.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/crud_interface.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/mysql.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/sql_connection.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/sqlserver.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/widgetapp.cpp.o CMakeFiles/MyDndServer.dir/UI/login.cpp.o CMakeFiles/MyDndServer.dir/UI/mydndserver.cpp.o CMakeFiles/MyDndServer.dir/UI/register.cpp.o CMakeFiles/MyDndServer.dir/main.cpp.o CMakeFiles/MyDndServer.dir/MyDndServer_autogen/DE6H7NGERT/qrc_assets.cpp.o CMakeFiles/MyDndServer.dir/MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp.o | /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Widgets.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Sql.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Network.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Gui.so.6.4.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Core.so.6.4.2 || MyDndServer_autogen MyDndServer_autogen_timestamp_deps
+build MyDndServer: CXX_EXECUTABLE_LINKER__MyDndServer_Release CMakeFiles/MyDndServer.dir/MyDndServer_autogen/mocs_compilation.cpp.o CMakeFiles/MyDndServer.dir/Core/entity.cpp.o CMakeFiles/MyDndServer.dir/Core/task.cpp.o CMakeFiles/MyDndServer.dir/Core/taskpool.cpp.o CMakeFiles/MyDndServer.dir/Core/view.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/crud_api.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/crud_interface.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/mysql.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/sql_connection.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/sqlserver.cpp.o CMakeFiles/MyDndServer.dir/LibraryAyimea/widgetapp.cpp.o CMakeFiles/MyDndServer.dir/UI/launcher.cpp.o CMakeFiles/MyDndServer.dir/UI/login.cpp.o CMakeFiles/MyDndServer.dir/UI/mydndserver.cpp.o CMakeFiles/MyDndServer.dir/UI/register.cpp.o CMakeFiles/MyDndServer.dir/main.cpp.o CMakeFiles/MyDndServer.dir/MyDndServer_autogen/DE6H7NGERT/qrc_assets.cpp.o CMakeFiles/MyDndServer.dir/MyDndServer_autogen/E6YBPJN25T/qrc_Ayimea.cpp.o | /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Widgets.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Sql.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Network.so.6.4.2 /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Gui.so.6.4.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Core.so.6.4.2 || MyDndServer_autogen MyDndServer_autogen_timestamp_deps
   FLAGS = -O3 -DNDEBUG
   LINK_LIBRARIES = -Wl,-rpath,/home/ammon/Qt/6.4.2/gcc_64/lib:  /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Widgets.so.6.4.2  /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Sql.so.6.4.2  /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Network.so.6.4.2  /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Gui.so.6.4.2  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so  /home/ammon/Qt/6.4.2/gcc_64/lib/libQt6Core.so.6.4.2
   OBJECT_DIR = CMakeFiles/MyDndServer.dir
@@ -278,7 +286,7 @@ build MyDndServer_autogen_timestamp_deps: phony CMakeFiles/MyDndServer_autogen_t
 #############################################
 # Utility command for MyDndServer_autogen
 
-build MyDndServer_autogen: phony CMakeFiles/MyDndServer_autogen MyDndServer_autogen/include/UI/ui_login.h MyDndServer_autogen/include/UI/ui_mydndserver.h MyDndServer_autogen/include/UI/ui_register.h MyDndServer_autogen/timestamp MyDndServer_autogen/mocs_compilation.cpp MyDndServer_autogen_timestamp_deps
+build MyDndServer_autogen: phony CMakeFiles/MyDndServer_autogen MyDndServer_autogen/include/UI/ui_launcher.h MyDndServer_autogen/include/UI/ui_login.h MyDndServer_autogen/include/UI/ui_mydndserver.h MyDndServer_autogen/include/UI/ui_register.h MyDndServer_autogen/timestamp MyDndServer_autogen/mocs_compilation.cpp MyDndServer_autogen_timestamp_deps
 
 
 #############################################
@@ -318,7 +326,7 @@ build CMakeFiles/MyDndServer_autogen_timestamp_deps | ${cmake_ninja_workdir}CMak
 #############################################
 # Phony custom command for CMakeFiles/MyDndServer_autogen
 
-build CMakeFiles/MyDndServer_autogen MyDndServer_autogen/include/UI/ui_login.h MyDndServer_autogen/include/UI/ui_mydndserver.h MyDndServer_autogen/include/UI/ui_register.h | ${cmake_ninja_workdir}CMakeFiles/MyDndServer_autogen ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_login.h ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_mydndserver.h ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_register.h: phony MyDndServer_autogen/timestamp || MyDndServer_autogen_timestamp_deps
+build CMakeFiles/MyDndServer_autogen MyDndServer_autogen/include/UI/ui_launcher.h MyDndServer_autogen/include/UI/ui_login.h MyDndServer_autogen/include/UI/ui_mydndserver.h MyDndServer_autogen/include/UI/ui_register.h | ${cmake_ninja_workdir}CMakeFiles/MyDndServer_autogen ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_launcher.h ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_login.h ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_mydndserver.h ${cmake_ninja_workdir}MyDndServer_autogen/include/UI/ui_register.h: phony MyDndServer_autogen/timestamp || MyDndServer_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

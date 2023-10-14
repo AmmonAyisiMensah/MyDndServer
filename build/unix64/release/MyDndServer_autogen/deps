@@ -500,6 +500,8 @@ MyDndServer_autogen/timestamp: \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/sqlserver.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.cpp \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.cpp \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.h \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.cpp \
@@ -809,6 +811,7 @@ MyDndServer_autogen/timestamp: \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
 	/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
+	/home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.ui \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/login.ui \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/mydndserver.ui \
 	/home/ammon/workspace/Qt/MyDndServer/src/UI/register.ui \

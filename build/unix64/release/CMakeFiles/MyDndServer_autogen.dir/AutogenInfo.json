@@ -546,6 +546,12 @@
 			null
 		],
 		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.h",
+			"MU",
+			"KRKR4BN5RM/moc_launcher.cpp",
+			null
+		],
+		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/UI/login.h",
 			"MU",
 			"KRKR4BN5RM/moc_login.cpp",
@@ -674,6 +680,11 @@
 		],
 		[
 			"/home/ammon/workspace/Qt/MyDndServer/src/LibraryAyimea/widgetapp.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/ammon/workspace/Qt/MyDndServer/src/UI/launcher.cpp",
 			"MU",
 			null
 		],
