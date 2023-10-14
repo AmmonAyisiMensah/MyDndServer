@@ -1,9 +1,0 @@
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/MyDndServer.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/MyDndServer_autogen_timestamp_deps.dir
-C:/workspace/MyDndServer/build-src-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/MyDndServer_autogen.dir
