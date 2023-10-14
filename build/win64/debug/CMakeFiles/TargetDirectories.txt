@@ -1,0 +1,9 @@
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/MyDndServer.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/edit_cache.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/rebuild_cache.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/list_install_components.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/install.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/install/local.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/install/strip.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/MyDndServer_autogen_timestamp_deps.dir
+C:/workspace/MyDndServer/build/win64/debug/CMakeFiles/MyDndServer_autogen.dir
