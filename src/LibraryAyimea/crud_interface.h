@@ -21,7 +21,7 @@ namespace AA { namespace Database {
  * @see MySQL
  * @see MSSQL
  */
-class AYIMEA_EXPORT CRUD_Interface : public QObject
+class CRUD_Interface : public QObject
 {
     Q_OBJECT
 public:

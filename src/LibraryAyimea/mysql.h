@@ -11,7 +11,7 @@ namespace AA { namespace Database {
  * @see CRUD_API
  * @see CRUD_Interface
  */
-class AYIMEA_EXPORT MySQL : public CRUD_Interface
+class MySQL : public CRUD_Interface
 {
     Q_OBJECT
 public:

@@ -1,0 +1,5 @@
+C:/workspace/MyDndServer/build/www/CMakeFiles/MyDungeonsAndDragonsServer.dir
+C:/workspace/MyDndServer/build/www/CMakeFiles/edit_cache.dir
+C:/workspace/MyDndServer/build/www/CMakeFiles/rebuild_cache.dir
+C:/workspace/MyDndServer/build/www/CMakeFiles/MyDungeonsAndDragonsServer_autogen_timestamp_deps.dir
+C:/workspace/MyDndServer/build/www/CMakeFiles/MyDungeonsAndDragonsServer_autogen.dir

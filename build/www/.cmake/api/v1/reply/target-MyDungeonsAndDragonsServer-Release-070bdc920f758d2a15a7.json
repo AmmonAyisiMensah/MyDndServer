@@ -1,0 +1,498 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "MyDungeonsAndDragonsServer.exe"
+		},
+		{
+			"path" : "MyDungeonsAndDragonsServer.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_EGL_SUPPORT_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_EVENTDISPATCHER_SUPPORT_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_FONTDATABASE_SUPPORT_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "QT_ZLIB_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/workspace/MyDndServer/build/www"
+				},
+				{
+					"path" : "C:/workspace/MyDndServer/src/MyDungeonsAndDragonsServer"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/workspace/MyDndServer/build/www/MyDungeonsAndDragonsServer_autogen/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtWidgets"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtGui"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtCore"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/./mkspecs/wasm-emscripten"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtZlib"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtEventDispatcherSupport"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtFontDatabaseSupport"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Qt/5.15.2/wasm_32/include/QtEglSupport"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "MyDungeonsAndDragonsServer_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "MyDungeonsAndDragonsServer_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "MyDungeonsAndDragonsServer::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:X86 /INCREMENTAL:NO /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqgif.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqicns.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqico.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqtga.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqtiff.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\platforms\\libqwasm.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqwbmp.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5EventDispatcherSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5FontDatabaseSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5EglSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqgif.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqicns.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqico.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqtga.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqtiff.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\platforms\\libqwasm.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqwbmp.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\plugins\\imageformats\\libqwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5EventDispatcherSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5FontDatabaseSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5EglSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libQt5EventDispatcherSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libQt5FontDatabaseSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libQt5EglSupport.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libqtfreetype.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\libQt5Core.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libQt5Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libqtlibpng.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libqtharfbuzz.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libQt5Core.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "C:\\Qt\\5.15.2\\wasm_32\\lib\\\\libqtpcre2.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "MyDungeonsAndDragonsServer",
+	"nameOnDisk" : "MyDungeonsAndDragonsServer.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				4,
+				5
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/workspace/MyDndServer/build/www/MyDungeonsAndDragonsServer_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "mydungeonsanddragonsserver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "mydungeonsanddragonsserver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "mydungeonsanddragonsserver.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/workspace/MyDndServer/build/www/MyDungeonsAndDragonsServer_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/workspace/MyDndServer/build/www/MyDungeonsAndDragonsServer_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWasmIntegrationPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin_Import.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

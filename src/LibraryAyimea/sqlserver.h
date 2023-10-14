@@ -11,7 +11,7 @@ namespace AA { namespace Database {
  * @see CRUD_API
  * @see CRUD_Interface
  */
-class AYIMEA_EXPORT SqlServer : public CRUD_Interface
+class SqlServer : public CRUD_Interface
 {
 public:
     /**

@@ -25,6 +25,7 @@ include_directories(
 qt_add_executable(MyDndServer
     MANUAL_FINALIZATION
     ${PROJECT_SOURCES}
+    UI/launcher.h UI/launcher.cpp UI/launcher.ui
 )
 
 

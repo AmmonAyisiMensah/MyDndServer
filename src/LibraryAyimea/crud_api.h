@@ -42,7 +42,7 @@ enum Command {
 /**
  * @brief The CRUD_API class provides basic functionality for an database connection
  */
-class AYIMEA_EXPORT CRUD_API : public QObject
+class CRUD_API : public QObject
 {
     Q_OBJECT
 public:

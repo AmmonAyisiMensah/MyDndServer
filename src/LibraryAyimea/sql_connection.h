@@ -42,7 +42,7 @@ const static QString DEFAULT_SETTINGS_FILEPATH = QDir::currentPath()+"/"+SQL_SET
  * @brief The SQLConnection class provides an interface for accessing a database through a connection.
  * The connection provides access to the database via one of the supported database drivers
  */
-class AYIMEA_EXPORT SQL_Connection : public QObject
+class SQL_Connection : public QObject
 {
     Q_OBJECT
 public:

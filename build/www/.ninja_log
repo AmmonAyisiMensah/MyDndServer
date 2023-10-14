@@ -1,0 +1,14 @@
+# ninja log v5
+2	240	718464344	MyDungeonsAndDragonsServer_autogen/timestamp	196715c882357f4f
+262	1420	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin_Import.cpp.obj	18c3dc71299f7ed9
+245	1425	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin_Import.cpp.obj	24e3f8f5461b6470
+250	1450	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/MyDungeonsAndDragonsServer_autogen/mocs_compilation.cpp.obj	aebbbf8410dc5334
+278	1572	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin_Import.cpp.obj	2bb63859e3427667
+254	1713	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin_Import.cpp.obj	b7237fbb5a4115a1
+242	1784	718464346	CMakeFiles/MyDungeonsAndDragonsServer.dir/main.cpp.obj	20723ecaa0ceacdd
+273	2349	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin_Import.cpp.obj	f22768081e60e90f
+266	2376	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/mydungeonsanddragonsserver.cpp.obj	401626201fe91dcf
+1426	2600	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin_Import.cpp.obj	ddfeafec1a30edc5
+1451	2606	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWasmIntegrationPlugin_Import.cpp.obj	d68fcfd81e511c5f
+1573	2650	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin_Import.cpp.obj	97693abffd4e4c1b
+1421	2701	718464347	CMakeFiles/MyDungeonsAndDragonsServer.dir/C_/Qt/5.15.2/wasm_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin_Import.cpp.obj	5a53653426fdbba0
