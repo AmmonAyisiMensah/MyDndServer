@@ -1,71 +1,29 @@
-# MyDndServer
+# Overview
 
-Simulate a D&amp;D game in a web application that can handle user with a character from DndBeyond.
+Simulate a D&amp;D game running on an **HTTP** server, allowing the host to build and serve their games without the need for an actual server. A hosted game maintains a list of **DndBeyond Charecter id's**, originating from the players that created their character on [the D&D Beyond website.](https://www.dndbeyond.com/characters) 
 
+Users can create their characters on the D&D Beyond website or mobile application.Once created a MyDndServer game session can be hosted, players can join by a temporary token provided ba a game master. Players can use the included **MyDndClient application** on PC or **join via web**, both require an address and port provided by the host.
 
-## Introduction 
+# Using the server
 
-  ![ProjectContext](doc/assets/context.svg)
+![Functional Model](.attachments/functional-model.png)
 
-Users can create their characters on the D&D Beyond website or mobile application.
-Once created they can register their character on MyDndServer.
+## Setup a game
+:memo: TODO
 
-A dungeonmaster creates a game with characters known in MyDndServer.
-Once game is created en started the players can join.
+## Joining a session
+:memo: TODO
 
-  ![ProjectContext](doc/assets/containers.svg)
-
-
-## Notes
+# Remarks
 
 With following GET request we can aquire the character details
 
 ```
-https://character-service.dndbeyond.com/character/v5/character/$char_id?includeCustomItems=true
-
-```
-
-- ***$char_id*** is to be replaced with the actual character id from dndbeyond.com
-
->Temp test link
-
-```
 https://character-service.dndbeyond.com/character/v5/character/103508287?includeCustomItems=true
+
 ```
 
+> ***103508287*** is the character id from dndbeyond.com 
 
-# TODO
->- ~~setup emscripted for web assembly~~
->- Create data structures
->    - PlayerData
->    - MapData
->    - GameData
->    - Dungeon Master data
->- Setup database
->    - structure
->    - procedures
->    - migration
->- Create Conrollers
->    ~~- DatabaseController~~
->    - PlayerController
->    - MapController
->    - DiceController
->    - DungeonMasterController
->- Create Services
->    - GameSyncService
->    - DungeonMasterListner
->    - StateService
->- View's
->    - CharacterView
->    - MapView
->    - DiceView
->    - ActionView
->    - DialogeView
->- Create Widgets
->    - PlayerWidget
->    - MapWidget
->    - DiceWidget
->    - ActionWidget
->- Git Guud?!
->- ..
->- profit
+
+
