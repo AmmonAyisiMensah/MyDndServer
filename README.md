@@ -23,7 +23,9 @@ https://character-service.dndbeyond.com/character/v5/character/103508287?include
 
 ```
 
-> ***103508287*** is the character id from dndbeyond.com 
+> ***103508287*** is the character id from dndbeyond.com
+>
+> **?includeCustomItems=true** may be excluded
 
 
 
